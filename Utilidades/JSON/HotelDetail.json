@@ -1,0 +1,3150 @@
+{
+  "__typename": "PropertyInfo",
+  "summary": {
+    "__typename": "PropertySummary",
+    "fees": null,
+    "id": "57240661",
+    "name": "Krystal Grand Nuevo Vallarta – All Inclusive",
+    "map": {
+      "__typename": "PropertyInfoMap",
+      "markers": [
+        {
+          "__typename": "PointOfInterest",
+          "mapMarker": {
+            "__typename": "MapMarker",
+            "icon": "AIRPORT",
+            "latLong": {
+              "__typename": "Coordinates",
+              "latitude": 20.677931,
+              "longitude": -105.248703
+            },
+            "type": "POI"
+          },
+          "poiContent": null,
+          "subtitle": "A 30 min en auto",
+          "title": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo Díaz Ordaz)"
+        },
+        {
+          "__typename": "PointOfInterest",
+          "mapMarker": {
+            "__typename": "MapMarker",
+            "icon": "HOTEL",
+            "latLong": {
+              "__typename": "Coordinates",
+              "latitude": 20.739593,
+              "longitude": -105.319918
+            },
+            "type": "HOTEL"
+          },
+          "poiContent": {
+            "__typename": "PoiContent",
+            "description": null,
+            "id": "57240661",
+            "image": null
+          },
+          "subtitle": null,
+          "title": "Krystal Grand Nuevo Vallarta – All Inclusive"
+        }
+      ]
+    },
+    "policies": {
+      "__typename": "PropertyPolicies",
+      "checkinEnd": null,
+      "checkinInstructions": [
+        "El personal de recepción recibirá a los huéspedes al momento de su llegada. "
+      ],
+      "checkinMinAge": null,
+      "checkinStart": null,
+      "checkoutTime": null,
+      "childAndBed": {
+        "__typename": "PropertyInfoSubSection",
+        "body": [
+          "Cunas no disponibles",
+          "Servicio de niñera*",
+          "Club infantil gratuito"
+        ],
+        "descriptions": [],
+        "title": null
+      },
+      "needToKnow": {
+        "__typename": "PropertyInfoSubSection",
+        "body": [
+          "<p>Solo se permite el acceso a las habitaciones a los huéspedes registrados en el hotel.</p> <p>Para tu tranquilidad, el hospedaje está equipado con detector de humo. </p><p>Las normas culturales y las políticas para huéspedes pueden variar dependiendo del país y la propiedad. Las políticas que aquí se muestran las dicta la propiedad.</p> <p>Esta propiedad acepta tarjetas de crédito, tarjetas de débito y efectivo.</p><p>La propiedad se reserva el derecho de realizar una preautorización de la tarjeta de crédito del huésped antes de su llegada. </p>",
+          "Children are not allowed in the infinity pool."
+        ],
+        "descriptions": [],
+        "title": "Información importante"
+      },
+      "paymentOptions": [],
+      "pets": {
+        "__typename": "PropertyInfoSubSection",
+        "body": [
+          "No se aceptan mascotas ni animales de servicio"
+        ],
+        "descriptions": [],
+        "title": "Mascotas"
+      },
+      "shouldMention": {
+        "__typename": "PropertyInfoSubSection",
+        "body": [
+          "El acceso a la alberca está disponible de las 08:00 a las 20:00",
+          "Es necesario reservar con anticipación los servicios de masaje y los tratamientos de spa. Las reservaciones se realizan poniéndose en contacto con la propiedad antes de la llegada, utilizando la información de contacto que aparece en la confirmación de la reservación.",
+          "Solo se permite el acceso a las habitaciones a los huéspedes registrados en la propiedad.",
+          "Esta propiedad no acepta mascotas ni animales de servicio.",
+          "No se permite la entrada al spa a huéspedes menores de 18 años."
+        ],
+        "descriptions": [],
+        "title": "Avisos importantes"
+      }
+    },
+    "telesalesPhoneNumber": "",
+    "bannerMessage": null,
+    "latinAlphabetName": "",
+    "tagline": "Propiedad frente a la playa en Nuevo Vallarta con spa y bar en la playa  \n",
+    "starRatingIcon": {
+      "__typename": "Icon",
+      "token": "STAR"
+    },
+    "overview": {
+      "__typename": "PropertyOverview",
+      "vipMessaging": null,
+      "inventoryType": null,
+      "accessibilityLabel": "Resumen de Krystal Grand Nuevo Vallarta – All Inclusive",
+      "label": null,
+      "propertyRating": {
+        "__typename": "EGDSIconRating",
+        "rating": 4,
+        "accessibility": "Propiedad de 4.0 estrellas",
+        "icon": {
+          "__typename": "Icon",
+          "id": "star",
+          "description": "star rating",
+          "size": null,
+          "token": "icon__star",
+          "theme": null
+        }
+      }
+    },
+    "featuredMessages": null,
+    "spaceOverview": null,
+    "amenities": {
+      "__typename": "PropertyAmenities",
+      "amenities": [
+        {
+          "__typename": "PropertyInfoSection",
+          "title": "Datos generales",
+          "sections": [],
+          "header": {
+            "__typename": "LodgingHeader",
+            "icon": null,
+            "text": "Datos generales",
+            "subText": null
+          },
+          "contents": [
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Tamaño del hotel",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "done",
+                "description": "",
+                "size": null,
+                "token": "done",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "480 habitaciones",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            },
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Check-in/check-out",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "done",
+                "description": "",
+                "size": null,
+                "token": "done",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Check-in: de 15:00 a cualquier hora del día",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Edad mínima para hacer el check-in: 18",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Check-out: 12:00",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            },
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Restricciones con respecto a tu viaje",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "done",
+                "description": "",
+                "size": null,
+                "token": "done",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Consulta las restricciones por el COVID-19.",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            },
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Instrucciones especiales para hacer check-in",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "done",
+                "description": "",
+                "size": null,
+                "token": "done",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "El personal de recepción recibirá a los huéspedes al momento de su llegada. ",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            },
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Requisitos para hacer el check-in",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "done",
+                "description": "",
+                "size": null,
+                "token": "done",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Se requiere una tarjeta de crédito, una tarjeta de débito o un depósito en efectivo para cargos imprevistos",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Se puede requerir una identificación oficial con fotografía",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "La edad mínima para realizar el check-in es de 18 años",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            },
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Niños",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "done",
+                "description": "",
+                "size": null,
+                "token": "done",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Cunas no disponibles",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Servicio de niñera*",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Club infantil gratuito",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            },
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Mascotas",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "done",
+                "description": "",
+                "size": null,
+                "token": "done",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "No se aceptan mascotas ni animales de servicio",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            },
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Internet",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "wifi",
+                "description": "",
+                "size": null,
+                "token": "wifi",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Wifi gratis en las áreas comunes",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            },
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Estacionamiento",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "local_parking",
+                "description": "",
+                "size": null,
+                "token": "local_parking",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Estacionamiento gratis y techado en las instalaciones",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            },
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Más información",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "done",
+                "description": "",
+                "size": null,
+                "token": "done",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "No se permite fumar en la propiedad",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "__typename": "PropertyInfoSection",
+          "title": "Servicios de la propiedad",
+          "sections": [],
+          "header": {
+            "__typename": "LodgingHeader",
+            "icon": null,
+            "text": "Servicios de la propiedad",
+            "subText": null
+          },
+          "contents": [
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Alimentos y bebidas",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "local_dining",
+                "description": "",
+                "size": null,
+                "token": "local_dining",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Desayuno buffet incluido todos los días",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "4 restaurantes",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "5 bares o lounges",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Bar en la playa",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Bar junto a la alberca",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Cafetería",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Servicio a la habitación",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Snack bar o deli",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            },
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Para los niños",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "family_friendly",
+                "description": "",
+                "size": null,
+                "token": "family_friendly",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Club infantil gratuito",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Chapoteadero",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Área de juegos infantiles",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Servicio de guardería en la habitación (con cargo)",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            },
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Actividades",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "lob_activities",
+                "description": "",
+                "size": null,
+                "token": "lob_activities",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "En la playa",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Clases de fitness",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Clases de yoga",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Tiro con arco",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Avistamiento de ballenas en los alrededores",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            },
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "De trabajo",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "business_center",
+                "description": "",
+                "size": null,
+                "token": "business_center",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "8 salas de juntas",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Centro de conferencias",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            },
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Servicios",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "room_service",
+                "description": "",
+                "size": null,
+                "token": "room_service",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Servicio de recepción las 24 horas",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Servicios de concierge",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Asistencia turística y para la compra de entradas",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Lavandería",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Resguardo de equipaje",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Organización de bodas",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Personal multilingüe",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Botones",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Uso gratuito de bicicletas",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Sombrillas de playa",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Camastros en la alberca",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Sombrillas en la alberca",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            },
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Instalaciones",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "done",
+                "description": "",
+                "size": null,
+                "token": "done",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Cajero automático o servicios bancarios",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Caja de seguridad en la recepción",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Jardín",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Terraza",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Sala de fitness",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "18 hoyos de golf",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "3 albercas al aire libre",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Sala de juegos o videojuegos",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Spa de servicio completo",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Salas de tratamiento o masaje",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            },
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Facilidades de acceso",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "accessible",
+                "description": "",
+                "size": null,
+                "token": "accessible",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Elevador",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            },
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Idiomas",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "done",
+                "description": "",
+                "size": null,
+                "token": "done",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Inglés",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Español",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "__typename": "PropertyInfoSection",
+          "title": "Amenidades en la habitación",
+          "sections": [],
+          "header": {
+            "__typename": "LodgingHeader",
+            "icon": null,
+            "text": "Amenidades en la habitación",
+            "subText": null
+          },
+          "contents": [
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Para que te diviertas",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "done",
+                "description": "",
+                "size": null,
+                "token": "done",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Estación para reproductor de MP3",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Televisión LED de 32 pulgadas",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            },
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Para tu comodidad",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "done",
+                "description": "",
+                "size": null,
+                "token": "done",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Aire acondicionado",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Artículos del minibar gratis",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Tabla de planchar con plancha",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            },
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Para que duermas bien",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "done",
+                "description": "",
+                "size": null,
+                "token": "done",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Cortinas blackout",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Se ofrece ropa de cama",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            },
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Para que te refresques",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "done",
+                "description": "",
+                "size": null,
+                "token": "done",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Baño privado",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Regadera",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Jabón and shampoo",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Secadora de cabello",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Toallas",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Papel de baño",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            },
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Alimentos y bebidas",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "local_dining",
+                "description": "",
+                "size": null,
+                "token": "local_dining",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Periquera",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Café instantáneo/té gratis",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            },
+            {
+              "__typename": "PropertyInfoContent",
+              "header": {
+                "__typename": "LodgingHeader",
+                "text": "Otros servicios y amenidades",
+                "subText": null,
+                "mark": null
+              },
+              "icon": {
+                "__typename": "Icon",
+                "id": "done",
+                "description": "",
+                "size": null,
+                "token": "done",
+                "theme": null
+              },
+              "jumpLink": null,
+              "items": [
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Servicio de limpieza diario",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                },
+                {
+                  "__typename": "PropertyInfoItem",
+                  "text": "Caja de seguridad con espacio para laptop",
+                  "state": null,
+                  "moreInfo": null,
+                  "icon": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "topAmenities": {
+        "__typename": "PropertyInfoContent",
+        "header": {
+          "__typename": "LodgingHeader",
+          "text": "Puntos destacados",
+          "subText": null,
+          "mark": null
+        },
+        "icon": null,
+        "jumpLink": null,
+        "items": [
+          {
+            "__typename": "PropertyInfoItem",
+            "text": "Desayuno incluido",
+            "state": null,
+            "moreInfo": null,
+            "icon": {
+              "__typename": "Icon",
+              "id": "free_breakfast",
+              "description": "",
+              "size": null,
+              "token": "free_breakfast",
+              "theme": null
+            }
+          },
+          {
+            "__typename": "PropertyInfoItem",
+            "text": "Estacionamiento gratuito",
+            "state": null,
+            "moreInfo": null,
+            "icon": {
+              "__typename": "Icon",
+              "id": "local_parking",
+              "description": "",
+              "size": null,
+              "token": "local_parking",
+              "theme": null
+            }
+          },
+          {
+            "__typename": "PropertyInfoItem",
+            "text": "Alberca",
+            "state": null,
+            "moreInfo": null,
+            "icon": {
+              "__typename": "Icon",
+              "id": "pool",
+              "description": "",
+              "size": null,
+              "token": "pool",
+              "theme": null
+            }
+          },
+          {
+            "__typename": "PropertyInfoItem",
+            "text": "Wifi gratis",
+            "state": null,
+            "moreInfo": null,
+            "icon": {
+              "__typename": "Icon",
+              "id": "wifi",
+              "description": "",
+              "size": null,
+              "token": "wifi",
+              "theme": null
+            }
+          },
+          {
+            "__typename": "PropertyInfoItem",
+            "text": "Gimnasio",
+            "state": null,
+            "moreInfo": null,
+            "icon": {
+              "__typename": "Icon",
+              "id": "fitness_center",
+              "description": "",
+              "size": null,
+              "token": "fitness_center",
+              "theme": null
+            }
+          },
+          {
+            "__typename": "PropertyInfoItem",
+            "text": "De no fumar",
+            "state": null,
+            "moreInfo": null,
+            "icon": {
+              "__typename": "Icon",
+              "id": "smoke_free",
+              "description": "",
+              "size": null,
+              "token": "smoke_free",
+              "theme": null
+            }
+          }
+        ]
+      },
+      "propertyContentPreferences": null,
+      "amenitiesDialog": {
+        "__typename": "LodgingAmenitiesDialog",
+        "trigger": {
+          "__typename": "LodgingDialogTriggerMessage",
+          "value": "Ver todos",
+          "icon": {
+            "__typename": "Icon",
+            "id": "chevron_right",
+            "description": "View all amenities",
+            "size": null,
+            "token": "icon__chevron_right",
+            "theme": null
+          },
+          "clientSideAnalytics": {
+            "__typename": "ClientSideAnalytics",
+            "linkName": "View all amenities",
+            "referrerId": "HOT.HIS.ViewAllAmenities"
+          }
+        },
+        "toolbar": {
+          "__typename": "LodgingDialogToolbar",
+          "title": "Servicios de la propiedad"
+        }
+      },
+      "takeover": {
+        "__typename": "PropertyTakeoverAmenities",
+        "amenityClosures": null,
+        "highlight": [
+          {
+            "__typename": "PropertyInfoContent",
+            "header": {
+              "__typename": "LodgingHeader",
+              "text": "",
+              "subText": null,
+              "mark": null
+            },
+            "icon": null,
+            "jumpLink": null,
+            "items": [
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Desayuno incluido",
+                "state": null,
+                "moreInfo": null,
+                "icon": {
+                  "__typename": "Icon",
+                  "id": "free_breakfast",
+                  "description": "",
+                  "size": null,
+                  "token": "free_breakfast",
+                  "theme": null
+                }
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Estacionamiento gratuito",
+                "state": null,
+                "moreInfo": null,
+                "icon": {
+                  "__typename": "Icon",
+                  "id": "local_parking",
+                  "description": "",
+                  "size": null,
+                  "token": "local_parking",
+                  "theme": null
+                }
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Alberca",
+                "state": null,
+                "moreInfo": null,
+                "icon": {
+                  "__typename": "Icon",
+                  "id": "pool",
+                  "description": "",
+                  "size": null,
+                  "token": "pool",
+                  "theme": null
+                }
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Wifi gratis",
+                "state": null,
+                "moreInfo": null,
+                "icon": {
+                  "__typename": "Icon",
+                  "id": "wifi",
+                  "description": "",
+                  "size": null,
+                  "token": "wifi",
+                  "theme": null
+                }
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Gimnasio",
+                "state": null,
+                "moreInfo": null,
+                "icon": {
+                  "__typename": "Icon",
+                  "id": "fitness_center",
+                  "description": "",
+                  "size": null,
+                  "token": "fitness_center",
+                  "theme": null
+                }
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "De no fumar",
+                "state": null,
+                "moreInfo": null,
+                "icon": {
+                  "__typename": "Icon",
+                  "id": "smoke_free",
+                  "description": "",
+                  "size": null,
+                  "token": "smoke_free",
+                  "theme": null
+                }
+              }
+            ]
+          }
+        ],
+        "property": [
+          {
+            "__typename": "PropertyInfoContent",
+            "header": {
+              "__typename": "LodgingHeader",
+              "text": "Alimentos y bebidas",
+              "subText": null,
+              "mark": null
+            },
+            "icon": {
+              "__typename": "Icon",
+              "id": "local_dining",
+              "description": "",
+              "size": null,
+              "token": "local_dining",
+              "theme": null
+            },
+            "jumpLink": null,
+            "items": [
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Desayuno buffet incluido todos los días",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "4 restaurantes",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "5 bares o lounges",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Bar en la playa",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Bar junto a la alberca",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Cafetería",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Servicio a la habitación",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Snack bar o deli",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              }
+            ]
+          },
+          {
+            "__typename": "PropertyInfoContent",
+            "header": {
+              "__typename": "LodgingHeader",
+              "text": "Para los niños",
+              "subText": null,
+              "mark": null
+            },
+            "icon": {
+              "__typename": "Icon",
+              "id": "family_friendly",
+              "description": "",
+              "size": null,
+              "token": "family_friendly",
+              "theme": null
+            },
+            "jumpLink": null,
+            "items": [
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Club infantil gratuito",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Chapoteadero",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Área de juegos infantiles",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Servicio de guardería en la habitación (con cargo)",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              }
+            ]
+          },
+          {
+            "__typename": "PropertyInfoContent",
+            "header": {
+              "__typename": "LodgingHeader",
+              "text": "Actividades",
+              "subText": null,
+              "mark": null
+            },
+            "icon": {
+              "__typename": "Icon",
+              "id": "lob_activities",
+              "description": "",
+              "size": null,
+              "token": "lob_activities",
+              "theme": null
+            },
+            "jumpLink": null,
+            "items": [
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "En la playa",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Clases de fitness",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Clases de yoga",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Tiro con arco",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Avistamiento de ballenas en los alrededores",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              }
+            ]
+          },
+          {
+            "__typename": "PropertyInfoContent",
+            "header": {
+              "__typename": "LodgingHeader",
+              "text": "De trabajo",
+              "subText": null,
+              "mark": null
+            },
+            "icon": {
+              "__typename": "Icon",
+              "id": "business_center",
+              "description": "",
+              "size": null,
+              "token": "business_center",
+              "theme": null
+            },
+            "jumpLink": null,
+            "items": [
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "8 salas de juntas",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Centro de conferencias",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              }
+            ]
+          },
+          {
+            "__typename": "PropertyInfoContent",
+            "header": {
+              "__typename": "LodgingHeader",
+              "text": "Servicios",
+              "subText": null,
+              "mark": null
+            },
+            "icon": {
+              "__typename": "Icon",
+              "id": "room_service",
+              "description": "",
+              "size": null,
+              "token": "room_service",
+              "theme": null
+            },
+            "jumpLink": null,
+            "items": [
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Servicio de recepción las 24 horas",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Servicios de concierge",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Asistencia turística y para la compra de entradas",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Lavandería",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Resguardo de equipaje",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Organización de bodas",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Personal multilingüe",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Botones",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Uso gratuito de bicicletas",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Sombrillas de playa",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Camastros en la alberca",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Sombrillas en la alberca",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              }
+            ]
+          },
+          {
+            "__typename": "PropertyInfoContent",
+            "header": {
+              "__typename": "LodgingHeader",
+              "text": "Instalaciones",
+              "subText": null,
+              "mark": null
+            },
+            "icon": {
+              "__typename": "Icon",
+              "id": "done",
+              "description": "",
+              "size": null,
+              "token": "done",
+              "theme": null
+            },
+            "jumpLink": null,
+            "items": [
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Cajero automático o servicios bancarios",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Caja de seguridad en la recepción",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Jardín",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Terraza",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Sala de fitness",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "18 hoyos de golf",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "3 albercas al aire libre",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Sala de juegos o videojuegos",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Spa de servicio completo",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Salas de tratamiento o masaje",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              }
+            ]
+          },
+          {
+            "__typename": "PropertyInfoContent",
+            "header": {
+              "__typename": "LodgingHeader",
+              "text": "Facilidades de acceso",
+              "subText": null,
+              "mark": null
+            },
+            "icon": {
+              "__typename": "Icon",
+              "id": "accessible",
+              "description": "",
+              "size": null,
+              "token": "accessible",
+              "theme": null
+            },
+            "jumpLink": null,
+            "items": [
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Elevador",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              }
+            ]
+          },
+          {
+            "__typename": "PropertyInfoContent",
+            "header": {
+              "__typename": "LodgingHeader",
+              "text": "Idiomas",
+              "subText": null,
+              "mark": null
+            },
+            "icon": {
+              "__typename": "Icon",
+              "id": "done",
+              "description": "",
+              "size": null,
+              "token": "done",
+              "theme": null
+            },
+            "jumpLink": null,
+            "items": [
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Inglés",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              },
+              {
+                "__typename": "PropertyInfoItem",
+                "text": "Español",
+                "state": null,
+                "moreInfo": null,
+                "icon": null
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "cleaningAndSafety": null,
+    "location": {
+      "__typename": "PropertyLocation",
+      "address": {
+        "__typename": "PropertyAddress",
+        "addressLine": "BLVD. COSTERO #800, COL. FLAMINGOS, Nuevo Vallarta, NAY, 63732",
+        "city": "Nuevo Vallarta",
+        "province": "NAY",
+        "countryCode": "MEX",
+        "firstAddressLine": "BLVD. COSTERO #800, COL. FLAMINGOS",
+        "secondAddressLine": null
+      },
+      "coordinates": {
+        "__typename": "Coordinates",
+        "latitude": 20.739593,
+        "longitude": -105.319918
+      },
+      "multiCityRegion": {
+        "__typename": "Region",
+        "id": "null"
+      },
+      "whatsAround": {
+        "__typename": "PropertyWhatsAround",
+        "editorial": {
+          "__typename": "PropertyEditorial",
+          "title": "Nuevo Vallarta",
+          "content": [
+            "Krystal Grand Nuevo Vallarta – All Inclusive se encuentra cerca de un campo de golf y en la playa, en Nuevo Vallarta. Los Arroyos Verdes y Splash Parque Acuático Vallarta son puntos de interés locales, y aquellos que deseen ir de compras pueden visitar Centro comercial Paradise Plaza y Centro comercial Plaza Lago Real. Puedes salir una noche a Teatro Act2PV o, si viajas con niños, puedes ir a Cotton House. Encontrarás muchas opciones para conocer la zona con actividades como avistamiento de ballenas. "
+          ]
+        }
+      },
+      "mapDialog": {
+        "__typename": "LodgingMapDialog",
+        "trigger": {
+          "__typename": "LodgingDialogTriggerMessage",
+          "value": "Ver en el mapa",
+          "icon": {
+            "__typename": "Icon",
+            "id": "chevron_right",
+            "description": "",
+            "size": null,
+            "token": "icon__chevron_right",
+            "theme": null
+          },
+          "clientSideAnalytics": null
+        },
+        "toolbar": null
+      },
+      "staticImage": {
+        "__typename": "Image",
+        "description": "Sección del mapa",
+        "url": "https://maps.googleapis.com/maps/api/staticmap?channel=expedia-HotelInformation&maptype=roadmap&format=jpg&zoom=13&scale=&size=600x120&markers=icon:https://a.travel-assets.com/shopping-pwa/images/his-preview-marker.png%7C20.739593,-105.319918&key=AIzaSyCYjQus5kCufOpSj932jFoR_AJiL9yiwOw&signature=466IHp4xufGX0ZXFiYO-Z1t544o=",
+        "aspectRatio": null
+      }
+    },
+    "nearbyPOIs": null,
+    "lodgingChatbot": null
+  },
+  "propertyGallery": {
+    "__typename": "PropertyImageGallery",
+    "imagesGrouped": null,
+    "images": [
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "3 albercas al aire libre, sombrillas en la alberca y camastros , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/3020b304.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "3 albercas al aire libre, sombrillas en la alberca y camastros "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "En la playa, sombrillas y bar en la playa , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/7b79bc84.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "En la playa, sombrillas y bar en la playa "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "En la playa, sombrillas y bar en la playa , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/4084bd0b.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "En la playa, sombrillas y bar en la playa "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "En la playa, sombrillas y bar en la playa , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/b2ebcde0.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "En la playa, sombrillas y bar en la playa "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "3 albercas al aire libre, sombrillas en la alberca y camastros , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/4cc27719.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "3 albercas al aire libre, sombrillas en la alberca y camastros "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "3 albercas al aire libre, sombrillas en la alberca y camastros , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/c0bcadfc.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "3 albercas al aire libre, sombrillas en la alberca y camastros "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "3 albercas al aire libre, sombrillas en la alberca y camastros , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/86562a3e.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "3 albercas al aire libre, sombrillas en la alberca y camastros "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación de lujo, 2 camas matrimoniales, vista parcial al océano | Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/9efb1978.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación de lujo, 2 camas matrimoniales, vista parcial al océano | Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación de lujo, 2 camas matrimoniales, vista parcial al océano | Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/a53ed581.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación de lujo, 2 camas matrimoniales, vista parcial al océano | Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación superior, 1 cama King size, frente al mar | Vista desde la habitación, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/be6bab23.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación superior, 1 cama King size, frente al mar | Vista desde la habitación"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación de lujo, 2 camas matrimoniales, vista parcial al océano | Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/58bfc0bd.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación de lujo, 2 camas matrimoniales, vista parcial al océano | Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación de lujo, 2 camas matrimoniales, vista parcial al océano | Vista desde la habitación, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/847f5c9e.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación de lujo, 2 camas matrimoniales, vista parcial al océano | Vista desde la habitación"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Regadera, secadora de cabello, toallas, jabón , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/cdca79dc.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Regadera, secadora de cabello, toallas, jabón "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Regadera, secadora de cabello, toallas, jabón , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/e9c16aa3.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Regadera, secadora de cabello, toallas, jabón "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Exterior, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/8b71019e.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Exterior"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Áreas de la propiedad, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/0784c9e4.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Áreas de la propiedad"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Bar junto a la alberca, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/dc4938bf.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Bar junto a la alberca"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "4 restaurantes; se sirven desayunos, comidas, cenas y cocina mexicana , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/1e457c29.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "4 restaurantes; se sirven desayunos, comidas, cenas y cocina mexicana "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "4 restaurantes; se sirven desayunos, comidas, cenas y cocina mexicana , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/e0bd7d4b.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "4 restaurantes; se sirven desayunos, comidas, cenas y cocina mexicana "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Buffet, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/c67d013e.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Buffet"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Salas de tratamiento para parejas, sauna y tratamientos corporales , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/f777e27a.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Salas de tratamiento para parejas, sauna y tratamientos corporales "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Recepción, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/170b5ae1.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Recepción"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Área infantil, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/f36e0b1d.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Área infantil"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Ciclismo, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/c560723b.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Ciclismo"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Senderismo, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/47dc844d.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Senderismo"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Sala de fitness, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/cb19e455.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Sala de fitness"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Sala de reuniones, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/4201b4e8.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Sala de reuniones"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Salón ejecutivo, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/8198253d.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Salón ejecutivo"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Vista aérea, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/3fc50921.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Vista aérea"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Vista aérea, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/952fe6c8.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Vista aérea"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación Deluxe, 2 camas matrimoniales, vista al jardín | Vista al jardín, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/fe3b1c27.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación Deluxe, 2 camas matrimoniales, vista al jardín | Vista al jardín"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Sala de juegos, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/4dffe0b1.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Sala de juegos"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "3 albercas al aire libre, sombrillas en la alberca y camastros , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/cab5f810.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "3 albercas al aire libre, sombrillas en la alberca y camastros "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/32543f72.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/5084cf83.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación superior, 1 cama King size, frente al mar | Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/fbd715a3.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación superior, 1 cama King size, frente al mar | Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación básica, 1 cama Queen size, vista al resort | Vista desde la habitación, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/7ec3034c.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación básica, 1 cama Queen size, vista al resort | Vista desde la habitación"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/ed39eca2.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación básica, 1 cama Queen size, vista al resort | Baño | Regadera, secadora de cabello, toallas, jabón , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/0d8d712a.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación básica, 1 cama Queen size, vista al resort | Baño | Regadera, secadora de cabello, toallas, jabón "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "4 restaurantes; se sirven desayunos, comidas, cenas y cocina mexicana , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/dedd1f85.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "4 restaurantes; se sirven desayunos, comidas, cenas y cocina mexicana "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Café, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/c750a4c3.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Café"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "4 restaurantes; se sirven desayunos, comidas, cenas y cocina mexicana , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/61baa66f.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "4 restaurantes; se sirven desayunos, comidas, cenas y cocina mexicana "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Vista desde la habitación, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/34b7fb6a.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Vista desde la habitación"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/555a02ed.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/fb949b55.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación junior, 2 camas matrimoniales, balcón, vista a la alberca | Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/24014094.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación junior, 2 camas matrimoniales, balcón, vista a la alberca | Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación Deluxe, 1 cama King size, vista al jardín | Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/692c685e.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación Deluxe, 1 cama King size, vista al jardín | Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "4 restaurantes; se sirven desayunos, comidas, cenas y cocina mexicana , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/55ce347f.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "4 restaurantes; se sirven desayunos, comidas, cenas y cocina mexicana "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "4 restaurantes; se sirven desayunos, comidas, cenas y cocina mexicana , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/548ff23c.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "4 restaurantes; se sirven desayunos, comidas, cenas y cocina mexicana "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación superior, 1 cama King size, frente al mar | Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/e7ebbedc.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación superior, 1 cama King size, frente al mar | Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación básica, 1 cama Queen size, vista al resort | Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/55cdc5dd.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación básica, 1 cama Queen size, vista al resort | Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Vista desde la habitación, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/1db3b752.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Vista desde la habitación"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación Deluxe, 2 camas matrimoniales, vista al jardín | Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/933740b2.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación Deluxe, 2 camas matrimoniales, vista al jardín | Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación básica, 1 cama Queen size, vista al resort | Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/5254db9c.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación básica, 1 cama Queen size, vista al resort | Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación Club, 1 cama King size, acceso a la alberca, planta baja | Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/cec97101.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación Club, 1 cama King size, acceso a la alberca, planta baja | Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación Deluxe, 1 cama King size, vista al jardín | Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/2d839214.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación Deluxe, 1 cama King size, vista al jardín | Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación junior, 2 camas matrimoniales, balcón, vista a la alberca | Vista desde la habitación, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/8304f394.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación junior, 2 camas matrimoniales, balcón, vista a la alberca | Vista desde la habitación"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/6f53e150.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación Deluxe, 1 cama King size, vista al jardín | Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/fccb4a7b.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación Deluxe, 1 cama King size, vista al jardín | Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación superior, 1 cama King size, frente al mar | Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/114f062f.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación superior, 1 cama King size, frente al mar | Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación básica, 1 cama Queen size, vista al resort | Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/b4aa3d04.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación básica, 1 cama Queen size, vista al resort | Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/21593c62.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación básica, 1 cama Queen size, vista al resort | Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/0e52b738.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación básica, 1 cama Queen size, vista al resort | Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación Deluxe, 2 camas matrimoniales, vista al jardín | Artículos del minibar gratis y caja de seguridad en la habitación , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/c372e7d4.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación Deluxe, 2 camas matrimoniales, vista al jardín | Artículos del minibar gratis y caja de seguridad en la habitación "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Habitación Deluxe, 1 cama King size, vista al jardín | Vista desde la habitación, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/104f0d42.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Habitación Deluxe, 1 cama King size, vista al jardín | Vista desde la habitación"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "5 bares o lounges, bar junto a la alberca, bar en la playa , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/4779fd7b.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "5 bares o lounges, bar junto a la alberca, bar en la playa "
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Terraza en la azotea, imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/417e7bcb.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Terraza en la azotea"
+        }
+      },
+      {
+        "__typename": "PropertyImage",
+        "accessibilityText": "Desayuno buffet incluido todos los días , imagen",
+        "actionLabel": "Mostrar en pantalla completa",
+        "imageId": null,
+        "image": {
+          "__typename": "Image",
+          "url": "https://images.trvl-media.com/lodging/58000000/57250000/57240700/57240661/8f0f2073.jpg?impolicy=resizecrop&rw=500&ra=fit",
+          "description": "Desayuno buffet incluido todos los días "
+        }
+      }
+    ],
+    "accessibilityLabel": "Galería de fotos de Krystal Grand Nuevo Vallarta – All Inclusive",
+    "thumbnailGalleryDialog": {
+      "__typename": "LodgingGalleryDialog",
+      "trigger": {
+        "__typename": "LodgingDialogTriggerMessage",
+        "value": "67+",
+        "icon": {
+          "__typename": "Icon",
+          "id": "photo_library",
+          "description": "",
+          "size": null,
+          "token": "icon__photo_library",
+          "theme": null
+        },
+        "clientSideAnalytics": null
+      },
+      "toolbar": {
+        "__typename": "LodgingDialogToolbar",
+        "title": "Krystal Grand Nuevo Vallarta – All Inclusive",
+        "icon": {
+          "__typename": "Icon",
+          "id": "arrow_back",
+          "description": "Cancelar y volver a los detalles de la propiedad",
+          "size": null,
+          "token": "icon__arrow_back",
+          "theme": null
+        },
+        "clientSideAnalytics": null
+      }
+    },
+    "mediaGalleryDialog": {
+      "__typename": "LodgingGalleryDialog",
+      "trigger": {
+        "__typename": "LodgingDialogTriggerMessage",
+        "value": "67+",
+        "icon": null,
+        "clientSideAnalytics": null
+      },
+      "toolbar": {
+        "__typename": "LodgingDialogToolbar",
+        "title": "Krystal Grand Nuevo Vallarta – All Inclusive",
+        "icon": {
+          "__typename": "Icon",
+          "id": "close",
+          "description": "Cancelar y volver a los detalles de la propiedad",
+          "size": null,
+          "token": "icon__close",
+          "theme": null
+        },
+        "clientSideAnalytics": null
+      }
+    }
+  },
+  "reviewInfo": {
+    "__typename": "PropertyReviews",
+    "summary": {
+      "__typename": "PropertyReviewSummary",
+      "overallScoreWithDescriptionA11y": {
+        "__typename": "LodgingEnrichedMessage",
+        "value": "6.8/10 Bueno"
+      },
+      "propertyReviewCountDetails": {
+        "__typename": "PropertyReviewCountDetails",
+        "shortDescription": "Ver 322 opiniones"
+      },
+      "highlightMessage": {
+        "__typename": "MessageResult",
+        "subtitle": {
+          "__typename": "MessagingResultTitle",
+          "text": "322 opiniones verificadas de huéspedes de Hoteles.com"
+        }
+      },
+      "seeAllAction": {
+        "__typename": "PropertyFilteredReviewsDialog",
+        "trigger": {
+          "__typename": "LodgingDialogTriggerMessage",
+          "clientSideAnalytics": {
+            "__typename": "ClientSideAnalytics",
+            "linkName": "Open property reviews dialog",
+            "referrerId": "PropertyReviews.Open"
+          }
+        }
+      }
+    }
+  },
+  "propertyContentSectionGroups": {
+    "__typename": "PropertyContentSectionGroups",
+    "cleanliness": null,
+    "aboutThisProperty": {
+      "__typename": "PropertyContentSectionGroup",
+      "sectionName": null,
+      "sections": [
+        {
+          "__typename": "PropertyContentSection",
+          "sectionName": null,
+          "header": {
+            "__typename": "LodgingHeader",
+            "icon": null,
+            "text": "Información de la propiedad",
+            "subText": null
+          },
+          "bodySubSections": [
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Krystal Grand Nuevo Vallarta – All Inclusive",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemMarkup",
+                      "content": {
+                        "__typename": "MarkupText",
+                        "text": "En Krystal Grand Nuevo Vallarta – All Inclusive, pasarás un rato ameno en la playa, donde podrás descansar bajo una sombrilla o tomar un coctel playero. Chicos y grandes se divierten como nunca en sus 3 albercas al aire libre. Si quieres consentirte con un momento lleno de relajación, puedes hacerlo con un masaje, una sesión de envoltura corporal o una sesión de aromaterapia. Uno de sus 4 restaurantes es Hacienda El Mortero, que sirve cocina mexicana y está abierto para la cena. Otros servicios y amenidades a destacar de esta propiedad de gran categoría son sus 5 bares o lounges, su club infantil gratis y su bar junto a la alberca. ",
+                        "markupType": "HTML"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Todo incluido",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Esta propiedad ofrece un plan todo incluido. Por lo tanto, los alimentos y bebidas se incluyen en el precio de la habitación (es posible que apliquen restricciones). ",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Propinas e impuestos ",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemTexts",
+                      "contents": [
+                        {
+                          "__typename": "PropertyContentText",
+                          "primary": {
+                            "__typename": "LodgingEnrichedMessage",
+                            "value": "Las propinas están incluidas. Se aceptan propinas extra a discreción del cliente. ",
+                            "accessibilityLabel": null,
+                            "icon": null
+                          },
+                          "secondary": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Alimentos y bebidas ",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemTexts",
+                      "contents": [
+                        {
+                          "__typename": "PropertyContentText",
+                          "primary": {
+                            "__typename": "LodgingEnrichedMessage",
+                            "value": "Las comidas del buffet, los snacks y las bebidas están incluidos ",
+                            "accessibilityLabel": null,
+                            "icon": null
+                          },
+                          "secondary": null
+                        },
+                        {
+                          "__typename": "PropertyContentText",
+                          "primary": {
+                            "__typename": "LodgingEnrichedMessage",
+                            "value": "Minibar (todas las bebidas incluidas) ",
+                            "accessibilityLabel": null,
+                            "icon": null
+                          },
+                          "secondary": null
+                        },
+                        {
+                          "__typename": "PropertyContentText",
+                          "primary": {
+                            "__typename": "LodgingEnrichedMessage",
+                            "value": "Alimentos con disponibilidad limitada en uno o más lugares ",
+                            "accessibilityLabel": null,
+                            "icon": null
+                          },
+                          "secondary": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Idiomas",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Inglés, español",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            }
+          ],
+          "action": null
+        }
+      ]
+    },
+    "policies": {
+      "__typename": "PropertyContentSectionGroup",
+      "sectionName": "Policies",
+      "sections": [
+        {
+          "__typename": "PropertyContentSection",
+          "sectionName": null,
+          "header": {
+            "__typename": "LodgingHeader",
+            "icon": null,
+            "text": "Cargos y políticas",
+            "subText": null
+          },
+          "bodySubSections": [
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Niños y camas adicionales",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemMarkup",
+                      "content": {
+                        "__typename": "MarkupText",
+                        "text": "<ul><li>Hay servicio de niñera en la habitación disponible con cargo extra</li></ul>",
+                        "markupType": "HTML"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Alberca, spa y gimnasio (si corresponde)",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemMarkup",
+                      "content": {
+                        "__typename": "MarkupText",
+                        "text": "<ul><li>El acceso a la alberca está disponible de 08:00 a 20:00</li><li>No se permite la entrada al spa a huéspedes menores de 18 años.</li><li>Para los servicios de masaje y los tratamientos de spa, se requiere de una reservación previa que se puede realizar llamando a la propiedad antes de la llegada, utilizando la información de contacto que aparece en la confirmación de la reservación.</li> </ul>",
+                        "markupType": "HTML"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Políticas",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemTexts",
+                      "contents": [
+                        {
+                          "__typename": "PropertyContentText",
+                          "primary": {
+                            "__typename": "LodgingEnrichedMessage",
+                            "value": "<p>Solo se permite el acceso a las habitaciones a los huéspedes registrados en el hotel.</p> <p>Para tu tranquilidad, el hospedaje está equipado con detector de humo. </p><p>Las normas culturales y las políticas para huéspedes pueden variar dependiendo del país y la propiedad. Las políticas que aquí se muestran las dicta la propiedad.</p> <p>Esta propiedad acepta tarjetas de crédito, tarjetas de débito y efectivo.</p><p>La propiedad se reserva el derecho de realizar una preautorización de la tarjeta de crédito del huésped antes de su llegada. </p>",
+                            "accessibilityLabel": null,
+                            "icon": null
+                          },
+                          "secondary": null
+                        },
+                        {
+                          "__typename": "PropertyContentText",
+                          "primary": {
+                            "__typename": "LodgingEnrichedMessage",
+                            "value": "Children are not allowed in the infinity pool.",
+                            "accessibilityLabel": null,
+                            "icon": null
+                          },
+                          "secondary": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "También conocido como:",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Krystal Grand Nuevo Vallarta",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Krystal Grand Nuevo Vallarta – All Inclusive Nuevo Vallarta",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            }
+          ],
+          "action": null
+        }
+      ]
+    },
+    "importantInfo": null
+  },
+  "saveTripItem": null
+}

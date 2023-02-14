@@ -1,0 +1,308 @@
+{
+  "query": "Puerto Vallarta",
+  "data": [
+    {
+      "@type": "gaiaRegionResult",
+      "index": "0",
+      "gaiaId": "180016",
+      "type": "CITY",
+      "regionNames": {
+        "fullName": "Puerto Vallarta, Puerto Vallarta, Jalisco, México",
+        "shortName": "Puerto Vallarta",
+        "displayName": "Puerto Vallarta, Puerto Vallarta, Jalisco, México",
+        "primaryDisplayName": "Puerto Vallarta",
+        "secondaryDisplayName": "Puerto Vallarta, Jalisco, México",
+        "lastSearchName": "Puerto Vallarta"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "180016"
+      },
+      "coordinates": {
+        "lat": "20.653406",
+        "long": "-105.225334"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "México",
+          "isoCode2": "MX",
+          "isoCode3": "MEX"
+        }
+      }
+    },
+    {
+      "@type": "gaiaRegionResult",
+      "index": "1",
+      "gaiaId": "800116",
+      "type": "NEIGHBORHOOD",
+      "regionNames": {
+        "fullName": "Centro Puerto Vallarta, Puerto Vallarta, Jalisco, México",
+        "shortName": "Centro Puerto Vallarta",
+        "displayName": "Centro Puerto Vallarta, Puerto Vallarta, Jalisco, México",
+        "primaryDisplayName": "Centro Puerto Vallarta",
+        "secondaryDisplayName": "Puerto Vallarta, Jalisco, México",
+        "lastSearchName": "Centro Puerto Vallarta"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "800116"
+      },
+      "coordinates": {
+        "lat": "20.612626461525736",
+        "long": "-105.23103289273713"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "México",
+          "isoCode2": "MX",
+          "isoCode3": "MEX"
+        }
+      }
+    },
+    {
+      "@type": "gaiaRegionResult",
+      "index": "2",
+      "gaiaId": "6051315",
+      "type": "NEIGHBORHOOD",
+      "regionNames": {
+        "fullName": "Zona romántica, Puerto Vallarta, Jalisco, México",
+        "shortName": "Zona romántica",
+        "displayName": "Zona romántica, Puerto Vallarta, Jalisco, México",
+        "primaryDisplayName": "Zona romántica",
+        "secondaryDisplayName": "Puerto Vallarta, Jalisco, México",
+        "lastSearchName": "Zona romántica"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "6051315"
+      },
+      "coordinates": {
+        "lat": "20.599992909473393",
+        "long": "-105.23435274078433"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "México",
+          "isoCode2": "MX",
+          "isoCode3": "MEX"
+        }
+      }
+    },
+    {
+      "@type": "gaiaRegionResult",
+      "index": "3",
+      "gaiaId": "553248633981715840",
+      "type": "NEIGHBORHOOD",
+      "regionNames": {
+        "fullName": "Zona hotelera de la costa sur, Puerto Vallarta, Jalisco, México",
+        "shortName": "Zona hotelera de la costa sur",
+        "displayName": "Zona hotelera de la costa sur, Puerto Vallarta, Jalisco, México",
+        "primaryDisplayName": "Zona hotelera de la costa sur",
+        "secondaryDisplayName": "Puerto Vallarta, Jalisco, México",
+        "lastSearchName": "Zona hotelera de la costa sur"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "553248633981715840"
+      },
+      "coordinates": {
+        "lat": "20.553616",
+        "long": "-105.267942"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "México",
+          "isoCode2": "MX",
+          "isoCode3": "MEX"
+        }
+      }
+    },
+    {
+      "@type": "gaiaHotelResult",
+      "index": "4",
+      "hotelId": "69945",
+      "type": "HOTEL",
+      "regionNames": {
+        "fullName": "Melia Puerto Vallarta - All inclusive, Puerto Vallarta, Puerto Vallarta, Jalisco, México",
+        "shortName": "Melia Puerto Vallarta - All inclusive",
+        "displayName": "Melia Puerto Vallarta - All inclusive, Puerto Vallarta, Puerto Vallarta, Jalisco, México",
+        "primaryDisplayName": "Melia Puerto Vallarta - All inclusive",
+        "secondaryDisplayName": "Puerto Vallarta, Puerto Vallarta, Jalisco, México",
+        "lastSearchName": "Melia Puerto Vallarta - All inclusive"
+      },
+      "essId": {
+        "sourceName": "LCM",
+        "sourceId": "69945"
+      },
+      "coordinates": {
+        "lat": "20.660972",
+        "long": "-105.253225"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "isoCode3": "MEX"
+        }
+      },
+      "cityId": "180016",
+      "hotelAddress": {
+        "street": "Paseo De La Marina Sur Lot H-7",
+        "city": "Puerto Vallarta",
+        "province": "JAL"
+      }
+    },
+    {
+      "@type": "gaiaHotelResult",
+      "index": "5",
+      "hotelId": "20312505",
+      "type": "HOTEL",
+      "regionNames": {
+        "fullName": "Crown Paradise Club Puerto Vallarta All Inclusive, Puerto Vallarta, Puerto Vallarta, Jalisco, México",
+        "shortName": "Crown Paradise Club Puerto Vallarta All Inclusive",
+        "displayName": "Crown Paradise Club Puerto Vallarta All Inclusive, Puerto Vallarta, Puerto Vallarta, Jalisco, México",
+        "primaryDisplayName": "Crown Paradise Club Puerto Vallarta All Inclusive",
+        "secondaryDisplayName": "Puerto Vallarta, Puerto Vallarta, Jalisco, México",
+        "lastSearchName": "Crown Paradise Club Puerto Vallarta All Inclusive"
+      },
+      "essId": {
+        "sourceName": "LCM",
+        "sourceId": "20312505"
+      },
+      "coordinates": {
+        "lat": "20.651359",
+        "long": "-105.242621"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "isoCode3": "MEX"
+        }
+      },
+      "cityId": "180016",
+      "hotelAddress": {
+        "street": "Paseo de las Garzas No. 3",
+        "city": "Puerto Vallarta",
+        "province": "JAL"
+      }
+    },
+    {
+      "@type": "gaiaRegionResult",
+      "index": "6",
+      "gaiaId": "800118",
+      "type": "NEIGHBORHOOD",
+      "regionNames": {
+        "fullName": "Marina Vallarta, Puerto Vallarta, Jalisco, México",
+        "shortName": "Marina Vallarta",
+        "displayName": "Marina Vallarta, Puerto Vallarta, Jalisco, México",
+        "primaryDisplayName": "Marina Vallarta",
+        "secondaryDisplayName": "Puerto Vallarta, Jalisco, México",
+        "lastSearchName": "Marina Vallarta"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "800118"
+      },
+      "coordinates": {
+        "lat": "20.663969",
+        "long": "-105.253128"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "México",
+          "isoCode2": "MX",
+          "isoCode3": "MEX"
+        }
+      }
+    },
+    {
+      "@type": "gaiaRegionResult",
+      "index": "7",
+      "gaiaId": "6051317",
+      "type": "CITY",
+      "regionNames": {
+        "fullName": "Mismaloya, Puerto Vallarta, Jalisco, México",
+        "shortName": "Mismaloya",
+        "displayName": "Mismaloya, Puerto Vallarta, Jalisco, México",
+        "primaryDisplayName": "Mismaloya",
+        "secondaryDisplayName": "Puerto Vallarta, Jalisco, México",
+        "lastSearchName": "Mismaloya"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "6051317"
+      },
+      "coordinates": {
+        "lat": "20.530943",
+        "long": "-105.289597"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "México",
+          "isoCode2": "MX",
+          "isoCode3": "MEX"
+        }
+      }
+    },
+    {
+      "@type": "gaiaRegionResult",
+      "index": "8",
+      "gaiaId": "5396048",
+      "type": "AIRPORT",
+      "regionNames": {
+        "fullName": "Puerto Vallarta, Jalisco, México (PVR-A. Internacional Licenciado Gustavo Díaz Ordaz)",
+        "shortName": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo Díaz Ordaz)",
+        "displayName": "Puerto Vallarta (PVR - A. Internacional Licenciado Gustavo Díaz Ordaz), Jalisco, México",
+        "primaryDisplayName": "Puerto Vallarta (PVR - A. Internacional Licenciado Gustavo Díaz Ordaz)",
+        "secondaryDisplayName": "Jalisco, México",
+        "lastSearchName": "Puerto Vallarta (PVR - A. Internacional Licenciado Gustavo Díaz Ordaz)"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "5396048"
+      },
+      "coordinates": {
+        "lat": "20.677931",
+        "long": "-105.248703"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "México",
+          "isoCode2": "MX",
+          "isoCode3": "MEX"
+        }
+      },
+      "isMinorAirport": "false"
+    },
+    {
+      "@type": "gaiaHotelResult",
+      "index": "9",
+      "hotelId": "16535",
+      "type": "HOTEL",
+      "regionNames": {
+        "fullName": "Barceló Puerto Vallarta - All Inclusive, Puerto Vallarta, Puerto Vallarta, Jalisco, México",
+        "shortName": "Barceló Puerto Vallarta - All Inclusive",
+        "displayName": "Barceló Puerto Vallarta - All Inclusive, Puerto Vallarta, Puerto Vallarta, Jalisco, México",
+        "primaryDisplayName": "Barceló Puerto Vallarta - All Inclusive",
+        "secondaryDisplayName": "Puerto Vallarta, Puerto Vallarta, Jalisco, México",
+        "lastSearchName": "Barceló Puerto Vallarta - All Inclusive"
+      },
+      "essId": {
+        "sourceName": "LCM",
+        "sourceId": "16535"
+      },
+      "coordinates": {
+        "lat": "20.532413",
+        "long": "-105.289873"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "isoCode3": "MEX"
+        }
+      },
+      "cityId": "180016",
+      "hotelAddress": {
+        "street": "Km 11.5 Zona Hotelera Sur",
+        "city": "Puerto Vallarta",
+        "province": ""
+      }
+    }
+  ]
+}

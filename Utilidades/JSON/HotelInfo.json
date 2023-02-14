@@ -1,0 +1,2255 @@
+{
+  "__typename": "PropertyInfo",
+  "propertyContentSectionGroups": {
+    "__typename": "PropertyContentSectionGroups",
+    "aboutThisProperty": {
+      "__typename": "PropertyContentSectionGroup",
+      "sectionName": null,
+      "sections": [
+        {
+          "__typename": "PropertyContentSection",
+          "sectionName": null,
+          "header": {
+            "__typename": "LodgingHeader",
+            "icon": null,
+            "text": "Información de la propiedad",
+            "subText": null
+          },
+          "bodySubSections": [
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Krystal Grand Nuevo Vallarta – All Inclusive",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemMarkup",
+                      "content": {
+                        "__typename": "MarkupText",
+                        "text": "En Krystal Grand Nuevo Vallarta – All Inclusive, pasarás un rato ameno en la playa, donde podrás descansar bajo una sombrilla o tomar un coctel playero. Chicos y grandes se divierten como nunca en sus 3 albercas al aire libre. Si quieres consentirte con un momento lleno de relajación, puedes hacerlo con un masaje, una sesión de envoltura corporal o una sesión de aromaterapia. Uno de sus 4 restaurantes es Hacienda El Mortero, que sirve cocina mexicana y está abierto para la cena. Otros servicios y amenidades a destacar de esta propiedad de gran categoría son sus 5 bares o lounges, su club infantil gratis y su bar junto a la alberca. ",
+                        "markupType": "HTML"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Todo incluido",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Esta propiedad ofrece un plan todo incluido. Por lo tanto, los alimentos y bebidas se incluyen en el precio de la habitación (es posible que apliquen restricciones). ",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Propinas e impuestos ",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemTexts",
+                      "contents": [
+                        {
+                          "__typename": "PropertyContentText",
+                          "primary": {
+                            "__typename": "LodgingEnrichedMessage",
+                            "value": "Las propinas están incluidas. Se aceptan propinas extra a discreción del cliente. ",
+                            "accessibilityLabel": null,
+                            "icon": null
+                          },
+                          "secondary": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Alimentos y bebidas ",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemTexts",
+                      "contents": [
+                        {
+                          "__typename": "PropertyContentText",
+                          "primary": {
+                            "__typename": "LodgingEnrichedMessage",
+                            "value": "Las comidas del buffet, los snacks y las bebidas están incluidos ",
+                            "accessibilityLabel": null,
+                            "icon": null
+                          },
+                          "secondary": null
+                        },
+                        {
+                          "__typename": "PropertyContentText",
+                          "primary": {
+                            "__typename": "LodgingEnrichedMessage",
+                            "value": "Minibar (todas las bebidas incluidas) ",
+                            "accessibilityLabel": null,
+                            "icon": null
+                          },
+                          "secondary": null
+                        },
+                        {
+                          "__typename": "PropertyContentText",
+                          "primary": {
+                            "__typename": "LodgingEnrichedMessage",
+                            "value": "Alimentos con disponibilidad limitada en uno o más lugares ",
+                            "accessibilityLabel": null,
+                            "icon": null
+                          },
+                          "secondary": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Idiomas",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Inglés, español",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            }
+          ],
+          "action": null
+        }
+      ]
+    },
+    "aboutThisHost": null,
+    "amenities": {
+      "__typename": "PropertyContentSectionGroup",
+      "sectionName": null,
+      "sections": [
+        {
+          "__typename": "PropertyContentSection",
+          "sectionName": "Datos generales",
+          "header": {
+            "__typename": "LodgingHeader",
+            "icon": null,
+            "text": "Datos generales",
+            "subText": null
+          },
+          "bodySubSections": [
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Tamaño del hotel",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "done",
+                      "description": "",
+                      "size": null,
+                      "token": "done",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "480 habitaciones",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Check-in/check-out",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "done",
+                      "description": "",
+                      "size": null,
+                      "token": "done",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Check-in: de 15:00 a cualquier hora del día",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Edad mínima para hacer el check-in: 18",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Check-out: 12:00",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Restricciones con respecto a tu viaje",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "done",
+                      "description": "",
+                      "size": null,
+                      "token": "done",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Consulta las restricciones por el COVID-19.",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Instrucciones especiales para hacer check-in",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "done",
+                      "description": "",
+                      "size": null,
+                      "token": "done",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "El personal de recepción recibirá a los huéspedes al momento de su llegada. ",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Requisitos para hacer el check-in",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "done",
+                      "description": "",
+                      "size": null,
+                      "token": "done",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Se requiere una tarjeta de crédito, una tarjeta de débito o un depósito en efectivo para cargos imprevistos",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Se puede requerir una identificación oficial con fotografía",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "La edad mínima para realizar el check-in es de 18 años",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Niños",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "done",
+                      "description": "",
+                      "size": null,
+                      "token": "done",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Cunas no disponibles",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Servicio de niñera*",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Club infantil gratuito",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Mascotas",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "done",
+                      "description": "",
+                      "size": null,
+                      "token": "done",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "No se aceptan mascotas ni animales de servicio",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Internet",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "wifi",
+                      "description": "",
+                      "size": null,
+                      "token": "wifi",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Wifi gratis en las áreas comunes",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Estacionamiento",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "local_parking",
+                      "description": "",
+                      "size": null,
+                      "token": "local_parking",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Estacionamiento gratis y techado en las instalaciones",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Más información",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "done",
+                      "description": "",
+                      "size": null,
+                      "token": "done",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "No se permite fumar en la propiedad",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            }
+          ],
+          "action": null
+        },
+        {
+          "__typename": "PropertyContentSection",
+          "sectionName": "Servicios de la propiedad",
+          "header": {
+            "__typename": "LodgingHeader",
+            "icon": null,
+            "text": "Servicios de la propiedad",
+            "subText": null
+          },
+          "bodySubSections": [
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Alimentos y bebidas",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "local_dining",
+                      "description": "",
+                      "size": null,
+                      "token": "local_dining",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Desayuno buffet incluido todos los días",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "4 restaurantes",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "5 bares o lounges",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Bar en la playa",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Bar junto a la alberca",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Cafetería",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Servicio a la habitación",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Snack bar o deli",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Para los niños",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "family_friendly",
+                      "description": "",
+                      "size": null,
+                      "token": "family_friendly",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Club infantil gratuito",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Chapoteadero",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Área de juegos infantiles",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Servicio de guardería en la habitación (con cargo)",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Actividades",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "lob_activities",
+                      "description": "",
+                      "size": null,
+                      "token": "lob_activities",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "En la playa",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Clases de fitness",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Clases de yoga",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Tiro con arco",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Avistamiento de ballenas en los alrededores",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "De trabajo",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "business_center",
+                      "description": "",
+                      "size": null,
+                      "token": "business_center",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "8 salas de juntas",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Centro de conferencias",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Servicios",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "room_service",
+                      "description": "",
+                      "size": null,
+                      "token": "room_service",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Servicio de recepción las 24 horas",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Servicios de concierge",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Asistencia turística y para la compra de entradas",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Lavandería",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Resguardo de equipaje",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Organización de bodas",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Personal multilingüe",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Botones",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Uso gratuito de bicicletas",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Sombrillas de playa",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Camastros en la alberca",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Sombrillas en la alberca",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Instalaciones",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "done",
+                      "description": "",
+                      "size": null,
+                      "token": "done",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Cajero automático o servicios bancarios",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Caja de seguridad en la recepción",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Jardín",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Terraza",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Sala de fitness",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "18 hoyos de golf",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "3 albercas al aire libre",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Sala de juegos o videojuegos",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Spa de servicio completo",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Salas de tratamiento o masaje",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Facilidades de acceso",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "accessible",
+                      "description": "",
+                      "size": null,
+                      "token": "accessible",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Elevador",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Idiomas",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "done",
+                      "description": "",
+                      "size": null,
+                      "token": "done",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Inglés",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Español",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            }
+          ],
+          "action": null
+        },
+        {
+          "__typename": "PropertyContentSection",
+          "sectionName": "Amenidades en la habitación",
+          "header": {
+            "__typename": "LodgingHeader",
+            "icon": null,
+            "text": "Amenidades en la habitación",
+            "subText": null
+          },
+          "bodySubSections": [
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Para que te diviertas",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "done",
+                      "description": "",
+                      "size": null,
+                      "token": "done",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Estación para reproductor de MP3",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Televisión LED de 32 pulgadas",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Para tu comodidad",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "done",
+                      "description": "",
+                      "size": null,
+                      "token": "done",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Aire acondicionado",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Artículos del minibar gratis",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Tabla de planchar con plancha",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Para que duermas bien",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "done",
+                      "description": "",
+                      "size": null,
+                      "token": "done",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Cortinas blackout",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Se ofrece ropa de cama",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Para que te refresques",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "done",
+                      "description": "",
+                      "size": null,
+                      "token": "done",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Baño privado",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Regadera",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Jabón and shampoo",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Secadora de cabello",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Toallas",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Papel de baño",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Alimentos y bebidas",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "local_dining",
+                      "description": "",
+                      "size": null,
+                      "token": "local_dining",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Periquera",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Café instantáneo/té gratis",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Otros servicios y amenidades",
+                    "subText": null,
+                    "icon": {
+                      "__typename": "Icon",
+                      "id": "done",
+                      "description": "",
+                      "size": null,
+                      "token": "done",
+                      "theme": null
+                    },
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Servicio de limpieza diario",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Caja de seguridad con espacio para laptop",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 2
+            }
+          ],
+          "action": null
+        }
+      ]
+    },
+    "importantInfo": null,
+    "policies": {
+      "__typename": "PropertyContentSectionGroup",
+      "sectionName": "Policies",
+      "sections": [
+        {
+          "__typename": "PropertyContentSection",
+          "sectionName": null,
+          "header": {
+            "__typename": "LodgingHeader",
+            "icon": null,
+            "text": "Cargos y políticas",
+            "subText": null
+          },
+          "bodySubSections": [
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Niños y camas adicionales",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemMarkup",
+                      "content": {
+                        "__typename": "MarkupText",
+                        "text": "<ul><li>Hay servicio de niñera en la habitación disponible con cargo extra</li></ul>",
+                        "markupType": "HTML"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Alberca, spa y gimnasio (si corresponde)",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemMarkup",
+                      "content": {
+                        "__typename": "MarkupText",
+                        "text": "<ul><li>El acceso a la alberca está disponible de 08:00 a 20:00</li><li>No se permite la entrada al spa a huéspedes menores de 18 años.</li><li>Para los servicios de masaje y los tratamientos de spa, se requiere de una reservación previa que se puede realizar llamando a la propiedad antes de la llegada, utilizando la información de contacto que aparece en la confirmación de la reservación.</li> </ul>",
+                        "markupType": "HTML"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Políticas",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemTexts",
+                      "contents": [
+                        {
+                          "__typename": "PropertyContentText",
+                          "primary": {
+                            "__typename": "LodgingEnrichedMessage",
+                            "value": "<p>Solo se permite el acceso a las habitaciones a los huéspedes registrados en el hotel.</p> <p>Para tu tranquilidad, el hospedaje está equipado con detector de humo. </p><p>Las normas culturales y las políticas para huéspedes pueden variar dependiendo del país y la propiedad. Las políticas que aquí se muestran las dicta la propiedad.</p> <p>Esta propiedad acepta tarjetas de crédito, tarjetas de débito y efectivo.</p><p>La propiedad se reserva el derecho de realizar una preautorización de la tarjeta de crédito del huésped antes de su llegada. </p>",
+                            "accessibilityLabel": null,
+                            "icon": null
+                          },
+                          "secondary": null
+                        },
+                        {
+                          "__typename": "PropertyContentText",
+                          "primary": {
+                            "__typename": "LodgingEnrichedMessage",
+                            "value": "Children are not allowed in the infinity pool.",
+                            "accessibilityLabel": null,
+                            "icon": null
+                          },
+                          "secondary": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "También conocido como:",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Krystal Grand Nuevo Vallarta",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Krystal Grand Nuevo Vallarta – All Inclusive Nuevo Vallarta",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            }
+          ],
+          "action": null
+        }
+      ]
+    },
+    "specialFeatures": {
+      "__typename": "PropertyContentSectionGroup",
+      "sectionName": null,
+      "sections": [
+        {
+          "__typename": "PropertyContentSection",
+          "sectionName": null,
+          "header": {
+            "__typename": "LodgingHeader",
+            "icon": null,
+            "text": "Servicios especiales",
+            "subText": null
+          },
+          "bodySubSections": [
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Todo incluido",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemText",
+                      "content": {
+                        "__typename": "PropertyContentText",
+                        "primary": {
+                          "__typename": "LodgingEnrichedMessage",
+                          "value": "Esta propiedad ofrece un plan todo incluido. Por lo tanto, los alimentos y bebidas se incluyen en el precio de la habitación (es posible que apliquen restricciones). ",
+                          "accessibilityLabel": null,
+                          "icon": null
+                        },
+                        "secondary": null
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Propinas e impuestos ",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemTexts",
+                      "contents": [
+                        {
+                          "__typename": "PropertyContentText",
+                          "primary": {
+                            "__typename": "LodgingEnrichedMessage",
+                            "value": "Las propinas están incluidas. Se aceptan propinas extra a discreción del cliente. ",
+                            "accessibilityLabel": null,
+                            "icon": null
+                          },
+                          "secondary": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Alimentos y bebidas ",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemTexts",
+                      "contents": [
+                        {
+                          "__typename": "PropertyContentText",
+                          "primary": {
+                            "__typename": "LodgingEnrichedMessage",
+                            "value": "Las comidas del buffet, los snacks y las bebidas están incluidos ",
+                            "accessibilityLabel": null,
+                            "icon": null
+                          },
+                          "secondary": null
+                        },
+                        {
+                          "__typename": "PropertyContentText",
+                          "primary": {
+                            "__typename": "LodgingEnrichedMessage",
+                            "value": "Minibar (todas las bebidas incluidas) ",
+                            "accessibilityLabel": null,
+                            "icon": null
+                          },
+                          "secondary": null
+                        },
+                        {
+                          "__typename": "PropertyContentText",
+                          "primary": {
+                            "__typename": "LodgingEnrichedMessage",
+                            "value": "Alimentos con disponibilidad limitada en uno o más lugares ",
+                            "accessibilityLabel": null,
+                            "icon": null
+                          },
+                          "secondary": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Spa",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemMarkup",
+                      "content": {
+                        "__typename": "MarkupText",
+                        "text": "<strong>Eternity</strong> dispone de 6 salas de tratamiento, incluidas salas para parejas. Se ofrecen servicios como tratamientos faciales, envolturas corporales, exfoliaciones corporales y tratamientos corporales. La variedad de tratamientos también incluye aromaterapia. Las instalaciones tienen sauna. <p>El spa abre todos los días. No se permite la entrada al spa a huéspedes menores de 18 años. </p>",
+                        "markupType": "HTML"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            },
+            {
+              "__typename": "PropertyContentSubSection",
+              "elements": [
+                {
+                  "__typename": "PropertyContent",
+                  "header": {
+                    "__typename": "LodgingHeader",
+                    "text": "Restaurantes",
+                    "subText": null,
+                    "icon": null,
+                    "headerImage": null
+                  },
+                  "items": [
+                    {
+                      "__typename": "PropertyContentItemMarkup",
+                      "content": {
+                        "__typename": "MarkupText",
+                        "text": "Hacienda El Mortero: restaurante con especialidad en cocina mexicana y servicio de cenas. Requiere reservación. ",
+                        "markupType": "HTML"
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemMarkup",
+                      "content": {
+                        "__typename": "MarkupText",
+                        "text": "The Grill: restaurante con servicio de cenas. Requiere reservación. Abre en días seleccionados. ",
+                        "markupType": "HTML"
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemMarkup",
+                      "content": {
+                        "__typename": "MarkupText",
+                        "text": "Ayami: restaurante con especialidad en cocina asiática y servicio solo de cenas. Requiere reservación. Abre en días seleccionados. ",
+                        "markupType": "HTML"
+                      }
+                    },
+                    {
+                      "__typename": "PropertyContentItemMarkup",
+                      "content": {
+                        "__typename": "MarkupText",
+                        "text": "Restaurante \"O\": buffet con servicio de desayunos, comidas y cenas. Abre todos los días. ",
+                        "markupType": "HTML"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "expando": null,
+              "maxColumns": 1
+            }
+          ],
+          "action": null
+        }
+      ]
+    }
+  }
+}
