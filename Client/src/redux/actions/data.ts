@@ -1,4 +1,4 @@
-{
+export const data:{} = {
     "count": 3,
     "results": [
         {
