@@ -1,0 +1,11 @@
+.container{
+    margin: 10px;
+    padding: 20px;
+    width: 300px;
+    max-height: 400px;
+    border: 1px solid black;
+}
+
+.image{
+    width: 300px;
+}
