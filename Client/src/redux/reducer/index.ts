@@ -14,6 +14,11 @@ const rootReducer = (state = initialState, action: Action) => {
                 ...state,
                 cities: action.payload
             }
+        case "GET_HOTELS":
+            return{
+                ...state,
+                cities:action.payload
+            }
         default:
             return {...state}
     }
