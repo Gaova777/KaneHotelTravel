@@ -1,4 +1,4 @@
-const dataCities = {
+{
     "count": 3,
     "results": [
         {
@@ -421,5 +421,3 @@ const dataCities = {
     "seo_h1": "All Cities"
     
 }
-
-export default dataCities
