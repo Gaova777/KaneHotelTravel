@@ -15,17 +15,21 @@ export function Ciudades () {
     },[dispatch])
 
     return(<div className={styles.container}>
-        {allCities.length ?
-        allCities.map((c:any) => {
-            return(
-                <CardCiudad
-                    shortName={c.shortName}
-                    id={c.id}
-                    image={c.image}
-                />
-            )
-        }):
-        (<h1>No se encontraron ciudades</h1>)
-    }
+        <h1>Ciudades</h1>
+        <div className={styles.cards}>
+            {allCities.length ?
+            allCities.map((c:any) => {
+                return(
+                    <CardCiudad
+                        name={c.name}
+                        id={c.id}
+                        image={c.image}
+                        popularity={c.popularity}
+                    />
+                )
+            }):
+            (<h1>No se encontraron ciudades</h1>)
+            }
+        </div>
     </div>)
 }
