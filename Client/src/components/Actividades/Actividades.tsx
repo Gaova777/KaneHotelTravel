@@ -24,7 +24,6 @@ export function Actividades (){
                 <CardActividad 
                     name={a.name} 
                     image={a.image}
-                    rating={a.rating}
                     id={a.id}
                 />
             )}) :

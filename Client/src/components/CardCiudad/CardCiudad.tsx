@@ -1,5 +1,6 @@
 import React from "react";
 import styles from "./CardCiudad.module.css"
+import iconHeart from "../../images/Icon-Heart.png"
 import {Link} from "react-router-dom"
 
 interface Props {
@@ -11,9 +12,14 @@ interface Props {
 
 export function CardCiudad (props: Props) {
     return(<div className={styles.container}>
-        <h4>{props.name}</h4>
         <img className={styles.image} src={props.image} />
-        <p>Popularidad: {props.popularity}</p>
-        <Link to={`/MainPage/${props.name}`}>Saber más</Link>
+        <div className={styles.cardInfo}>
+            <h2 className={styles.cityName}>{props.name}</h2>
+            <div className={styles.popularity}>
+                <img src={iconHeart}/>
+                <p>{props.popularity}</p>
+            </div>
+            <Link to={`/MainPage/${props.name}`} className={styles.button}>Saber más</Link>
+        </div>
     </div>)
 }
