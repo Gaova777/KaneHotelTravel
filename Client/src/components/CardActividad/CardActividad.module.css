@@ -1,0 +1,39 @@
+.container{
+    margin: 30px;
+    padding: 0px;
+    width: 300px;
+    min-height: 350px;
+    border: 1px solid rgba(0, 0, 0, 0.31);
+    /* border-radius: 10px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #FBFBFB;
+    box-shadow: 11px 20px 8px rgba(0, 0, 0, 0.33);
+}
+
+.image{
+    width: 270px;
+    height: 200px;
+}
+
+.button{
+    font-size: 15px;
+    text-decoration: none;
+    padding: 5px;
+    width: 200px;
+    height: 28px;
+    border: 3px solid #FF795B;
+    border-radius: 10px;
+    transition: all 0.2s;
+}
+
+.button:hover{
+    background-color: #FF795B;
+    color: white;
+}
+
+.cardInfo{
+    width: 90%;
+}
