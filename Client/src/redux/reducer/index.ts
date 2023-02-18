@@ -12,12 +12,13 @@ const rootReducer = (state = initialState, action: Action) => {
         case "GET_CITIES":
             return{
                 ...state,
-                cities: action.payload
+                cities: action.payload,
+                activities: []
             }
-        case "GET_HOTELS":
+        case "GET_ACTIVITIES":
             return{
                 ...state,
-                cities:action.payload
+                activities:action.payload
             }
         default:
             return {...state}
