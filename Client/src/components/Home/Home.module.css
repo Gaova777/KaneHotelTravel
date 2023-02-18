@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    min-height: 900px;
+    background-color: rgba(0, 0, 0, 0.315);
+    background-image: url("../../images/backgroundHome.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.welcome{
+    margin: 20px;
+    width: 500px;
+    padding: 20px;
+    background-color: #FFFFFFBD;
+    border-radius: 10px;
+}
