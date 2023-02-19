@@ -4,8 +4,8 @@ import { useFormik } from 'formik';
 import * as Yup from "yup";
 import { getCities } from "../../redux/actions";
 import {City, Record} from "../../utils/interfaces";
-import InputText from "../../components/Input/Input";
-import Button from "../../components/Button/Button";
+import InputText from "../../components/Form/Input/Input";
+import Button from "../../components/Form/Button/Button";
 
 const CreateHotel: React.FC = () =>{
   const [record, setRecord] = useState<Record>({})
@@ -49,7 +49,6 @@ const CreateHotel: React.FC = () =>{
     dispatch(getCities() as any)
   },[dispatch])
 
-  console.log(record);
 
   return (
     record.registered === true
