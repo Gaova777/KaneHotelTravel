@@ -1,4 +1,5 @@
 import React from "react";
+import style from './Button.module.css'
 
 interface ButtonProps {
   type: any
@@ -8,7 +9,7 @@ interface ButtonProps {
 
 const Button: any = (props: ButtonProps) =>{
   return(
-    <button type={props.type} onClick={props.onClick}>
+    <button type={props.type} onClick={props.onClick} className={style.button}>
       {props.value}
     </button>
   )

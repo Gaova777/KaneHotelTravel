@@ -6,6 +6,7 @@ import { getCities } from "../../redux/actions";
 import {City, Record} from "../../utils/interfaces";
 import {Input, Button} from "../../components/Form/index";
 import styleForm from "../../components/Form/Form.module.css"
+import style from './CreateHotel.module.css'
 
 const CreateHotel: React.FC = () =>{
   const [record, setRecord] = useState<Record>({})
@@ -26,7 +27,8 @@ const CreateHotel: React.FC = () =>{
       city: ''
     },
     validationSchema: Yup.object({
-      name: Yup.string().required("Nombre obligatorio")
+      name: Yup.string().required("Nombre obligatorio").max(100, "El nombre debe tener como máximo 100 caracteres"),
+      image: Yup.string().url("La imagen debe ser una URL válida")
     }),
     onSubmit: (formData) => {
       console.log("formData: ",formData);
@@ -54,13 +56,14 @@ const CreateHotel: React.FC = () =>{
     record.registered === true
       ? <p>Vamos a cargar el componente HotelDetail {JSON.stringify(record.response)} </p>
       : 
-    <div>
+    <div className={style.formContainer}>
       <form onSubmit={formik.handleSubmit}>
+      <h3 className={style.formNote}>Campos con * son obligatorios.</h3>
         {record.error && <h2>{record.error}</h2>}
         <Input
           name="name"
           type="text"
-          placeholder="Nombre(*): "
+          placeholder="Nombre(*): Maximo 100 letras"
           onChange={formik.handleChange}
           value={formik.values.name}
           error={formik.errors.name}
@@ -68,7 +71,7 @@ const CreateHotel: React.FC = () =>{
         <Input
           name="image"
           type="text"
-          placeholder="Imagen"
+          placeholder="Imagen: (Url)"
           onChange={formik.handleChange}
           value={formik.values.image}
           error={formik.errors.image}
@@ -98,7 +101,7 @@ const CreateHotel: React.FC = () =>{
           error={formik.errors.category}
         />
         <div>
-          <select name="city" onChange={formik.handleChange} value={formik.values.city}>
+          <select name="city" onChange={formik.handleChange} value={formik.values.city} className={style.select} >
             <option value="">Ciudad</option>
             {allCities.map(cityDb => (
               <option value={cityDb.name} key={cityDb.id}>{cityDb.name}</option>
@@ -107,8 +110,10 @@ const CreateHotel: React.FC = () =>{
           <p className={styleForm.errorMessage}>{formik.errors.city && formik.errors.city}</p>
         </div>
 
-        <Button type="submit" value="Registrar" />
-        <Button type="reset" value="Limpiar" onClick={formik.handleReset} />
+        <section className={style.buttonContainer}>
+          <Button type="submit" value="Registrar" />
+          <Button type="reset" value="Limpiar" onClick={formik.handleReset} />
+        </section>
         
        </form>
     </div>

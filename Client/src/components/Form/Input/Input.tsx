@@ -1,5 +1,6 @@
 import React from "react";
 import styleForm from "../Form.module.css"
+import style from "./Input.module.css"
 
 interface InputProps {
   name: string,
@@ -21,7 +22,7 @@ const Input: any = (props: InputProps) =>{
         placeholder={props.placeholder}
         onChange={props.onChange}
         value={props.value}
-        className={props.error ? styleForm.inputError : ''}
+        className={props.error ? `${styleForm.inputError} ${style.input}` : `${style.input}`}
       />
       <p className={styleForm.errorMessage}>{props.error && props.error}</p>
     </div>
