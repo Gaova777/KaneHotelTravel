@@ -1,5 +1,5 @@
-import Form from "./Form/Form";
+import CreateHotel from "./CreateHotel/CreateHotel";
 
 export {
-  Form
+  CreateHotel
 }
