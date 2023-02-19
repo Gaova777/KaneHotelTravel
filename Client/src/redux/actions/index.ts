@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 import data from "./data.json";
 import { Dispatch } from "redux";
 import axios from "axios";
+=======
+import { Dispatch } from "redux"
+>>>>>>> 65d1249c191bb0073b5eed15aef1235a8ac95877
 
 interface GetCitiesAction {
 	type: "GET_CITIES";
@@ -16,6 +20,7 @@ interface GetHotelsAction {
 	type: "GET_HOTELS";
 	payload: any;
 }
+<<<<<<< HEAD
 interface GetHotelDetail {
 	type: "GET_HOTEL_DETAIL";
 	payload: any;
@@ -56,3 +61,31 @@ export function getHotelDetail(id: any) {
 		}
 	};
 }
+=======
+
+interface GetDetailActivitiesAction {
+    type: "GET_DETAIL_ACTIVITIE",
+    payload: any
+}
+
+export type Action = GetCitiesAction | GetActivitiesAction | GetHotelsAction | GetDetailActivitiesAction
+
+export const getCities = () => (dispatch: Dispatch) => {
+    fetch("http://localhost:3001/city")
+    .then(res => res.json())
+    .then(json => dispatch({type: "GET_CITIES", payload: json}))
+    // dispatch({type: "GET_CITIES", payload: data.results})
+}
+
+export const getActivities = (name:any) => (dispatch:Dispatch) => {
+    fetch(`http://localhost:3001/activity?city=${name}&order=ASC`)
+    .then(res => res.json())
+    .then(json => dispatch({type: "GET_ACTIVITIES", payload: json[0].activities}))
+}
+
+export const getActivityDetail = (id:any) => (dispatch:Dispatch) => {
+    fetch(`http://localhost:3001/activity/${id}`)
+    .then(res => res.json())
+    .then(json => dispatch({type: "GET_DETAIL_ACTIVITIE", payload: json}))
+}
+>>>>>>> 65d1249c191bb0073b5eed15aef1235a8ac95877
