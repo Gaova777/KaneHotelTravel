@@ -5,6 +5,7 @@ export interface Record {
 }
 
 export interface Activity {
+  id?: number,
   name: string,
   description: string,
   duration: number,
@@ -13,6 +14,7 @@ export interface Activity {
 }
 
 export interface City {
+  id?: number
   name: string,
   image: string,
   popularity?: number
