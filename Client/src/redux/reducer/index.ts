@@ -4,7 +4,8 @@ import { Action } from "../actions"
 
 const initialState = {
     cities: [],
-    activities : []
+    activities: [],
+    detailActivity: {}
 }
 
 const rootReducer = (state = initialState, action: Action) => {
@@ -13,12 +14,19 @@ const rootReducer = (state = initialState, action: Action) => {
             return{
                 ...state,
                 cities: action.payload,
-                activities: []
+                activities: [],
+                detailActivity: {}
             }
         case "GET_ACTIVITIES":
             return{
                 ...state,
-                activities:action.payload
+                activities: action.payload,
+                detailAtcivity: {}
+            }
+        case "GET_DETAIL_ACTIVITIE":
+            return{
+                ...state,
+                detailActivity: action.payload
             }
         default:
             return {...state}
