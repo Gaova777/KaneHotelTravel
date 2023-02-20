@@ -1,7 +1,6 @@
 import { Link } from 'react-router-dom'
 import Logo from "../../Logo/Logo";
 import style from './CreateNav.module.css'
-import Button from '../Button/Button';
 
 interface InputProps {
   value: string,
@@ -14,7 +13,7 @@ const CreateNav: any = (props: InputProps) =>{
       <Logo />
 
       <Link to={props.url}>
-        <Button type="button" value={props.value} />
+        <button className={style.button}>{props.value}</button>
       </Link>
     </nav>
   )
