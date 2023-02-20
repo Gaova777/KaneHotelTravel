@@ -1,0 +1,26 @@
+.nav{
+  padding: 1rem 0 2rem 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 90%;
+  margin: 0 auto;
+  padding: 1rem 0;
+}
+
+.button{
+  font-size: 15px;
+  text-decoration: none;
+  padding: 5px;
+  width: 150px;
+  /* height: 28px; */
+  border: 3px solid #435092;
+  border-radius: 10px;
+  transition: all 0.2s;
+  font-family: inherit;
+}
+
+.button:hover{
+  background-color: #435092;
+  color: white;
+}
