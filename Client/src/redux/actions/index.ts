@@ -40,3 +40,10 @@ export const getActivityDetail = (id:any) => (dispatch:Dispatch) => {
     .then(res => res.json())
     .then(json => dispatch({type: "GET_DETAIL_ACTIVITIE", payload: json}))
 }
+
+
+export const getHotels = (name:any) => (dispatch:Dispatch) => {
+    fetch(`http://localhost:3001/hotel?city=${name}&filter=Economic&order=ASC`)
+    .then(res => res.json())
+    .then(json => dispatch({type: "GET_HOTELS", payload: json[0].hotels}))
+}
