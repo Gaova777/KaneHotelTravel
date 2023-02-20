@@ -1,12 +1,13 @@
-import { Action } from "../actions"
+import { Action } from "../actions";
 
-// creamos la interface InitState con los tipos de dato de cada propiedad del estado inicial 
+// creamos la interface InitState con los tipos de dato de cada propiedad del estado inicial
 
 const initialState = {
     cities: [],
     hotels: [],
     activities: [],
-    detailActivity: {}
+    detailActivity: {},
+	detailHotel: {}
 }
 
 const rootReducer = (state = initialState, action: Action) => {
@@ -35,10 +36,16 @@ const rootReducer = (state = initialState, action: Action) => {
                 ...state,
                 hotels: action.payload
             }
-            
+			case "GET_HOTEL_DETAIL": {
+				console.log("llegué al reducer");
+				return {
+					...state,
+					detailHotel: action.payload,
+				};
+			}
         default:
             return {...state}
     }
 }
 
-export default rootReducer
+export default rootReducer;
