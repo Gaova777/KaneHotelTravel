@@ -7,6 +7,7 @@ import {City, Record} from "../../utils/interfaces";
 import {Input, Button, CreateNav} from "../../components/Form/index";
 import styleForm from "../../components/Form/Form.module.css"
 import style from './CreateHotel.module.css'
+import { Link } from "react-router-dom";
 
 const CreateHotel: React.FC = () =>{
   const [record, setRecord] = useState<Record>({})
@@ -53,7 +54,9 @@ const CreateHotel: React.FC = () =>{
 
   return (
     record.registered === true
-      ? <p>Vamos a cargar el componente HotelDetail {JSON.stringify(record.response)} </p>
+      ?<div> <p>Registro Exitoso{JSON.stringify(record.response)} </p>
+      <Link to={"/"}><button>Volver a Inicio</button></Link>
+      </div>
       : 
     <div className={style.formContainer}>
       <CreateNav value="Regresar" url="/"/>
