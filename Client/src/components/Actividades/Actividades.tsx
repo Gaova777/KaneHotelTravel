@@ -6,6 +6,8 @@ import { useAppDispatch, useAppSelector } from "../../redux/Hooks/Hooks";
 import { CardActividad } from "../CardActividad/CardActividad";
 import styles from "./Actividades.module.css"
 
+
+
 export function Actividades (){
 
     const params = useParams()
