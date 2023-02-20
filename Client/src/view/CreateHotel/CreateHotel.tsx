@@ -31,7 +31,6 @@ const CreateHotel: React.FC = () =>{
       image: Yup.string().url("La imagen debe ser una URL válida")
     }),
     onSubmit: (formData) => {
-      console.log("formData: ",formData);
       
       fetch(`${import.meta.env.VITE_URL_BACKEND}/hotel`, {
         method: "POST",
@@ -60,7 +59,7 @@ const CreateHotel: React.FC = () =>{
       <CreateNav value="Regresar" url="/"/>
       <form onSubmit={formik.handleSubmit}>
       <h3 className={style.formNote}>Campos con * son obligatorios.</h3>
-        {record.error && <h2>{record.error}</h2>}
+        {record.error && <h2 className="errorMessage">{record.error}</h2>}
         <Input
           name="name"
           type="text"
