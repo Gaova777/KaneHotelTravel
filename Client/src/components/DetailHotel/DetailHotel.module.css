@@ -1,0 +1,16 @@
+.mainContainer{
+  display: flex;
+  min-height: 99vh;
+  flex-direction: column ; 
+  background-color: red;
+}
+.image{
+  image-rendering: auto;
+}
+.container{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
