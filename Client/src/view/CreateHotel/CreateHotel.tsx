@@ -4,7 +4,7 @@ import { useFormik } from 'formik';
 import * as Yup from "yup";
 import { getCities } from "../../redux/actions";
 import {City, Record} from "../../utils/interfaces";
-import {Input, Button} from "../../components/Form/index";
+import {Input, Button, CreateNav} from "../../components/Form/index";
 import styleForm from "../../components/Form/Form.module.css"
 import style from './CreateHotel.module.css'
 
@@ -57,6 +57,7 @@ const CreateHotel: React.FC = () =>{
       ? <p>Vamos a cargar el componente HotelDetail {JSON.stringify(record.response)} </p>
       : 
     <div className={style.formContainer}>
+      <CreateNav value="Regresar" url="/"/>
       <form onSubmit={formik.handleSubmit}>
       <h3 className={style.formNote}>Campos con * son obligatorios.</h3>
         {record.error && <h2>{record.error}</h2>}
