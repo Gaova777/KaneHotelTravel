@@ -18,7 +18,7 @@ function App() {
 				<Route path="/backoffice/hotel/create" element={<CreateHotel />} />
 				<Route path="/MainPage/:cityName" element={<MainPage />} />
 				<Route path="/activity/:id" element={<DetailActividad />} />
-				<Route path="/hotel/:id" element={<DetailHotel />} />
+				<Route path="/HotelDetail/:id" element={<DetailHotel />} />
 			</Routes>
 		</div>
 	);

@@ -66,3 +66,6 @@ position: right;
   background-color: #FF795B;
   color: white;
 }
+h1{
+  max-width: 520px;
+}
