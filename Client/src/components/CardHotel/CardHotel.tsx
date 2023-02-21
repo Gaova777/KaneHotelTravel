@@ -19,7 +19,7 @@ export function CardHotel (props: Props) {
                 <img src={iconHeart} alt="rating" />
                 <p>{props.rating}</p>
             </div>
-            <Link to={`/HotelDetail/${props.id}`} className={styles.button}>Saber más</Link>
+            <Link to={`/hotel/${props.id}`} className={styles.button}>Saber más</Link>
         </div>
     </div>)
 }
