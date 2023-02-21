@@ -14,22 +14,6 @@ export function MainPage(){
 
     return(<div className={styles.container}>
         <CreateNav value="Nuevo hotel" url="/backoffice/hotel/create"/>
-        {/* Ordenamientos y filtrados */}
-        <div>
-            <div>
-                <span>Categoría</span>
-                <select>
-                    <option>Económico</option>
-                </select>
-            </div>
-            <div>
-                <span>Alfabéticamente</span>
-                <select>
-                    <option value="ASC">Ascendente</option>
-                    <option value="DSC">Descendente</option>
-                </select>
-            </div> 
-        </div>
         <div className={styles.cityName}>
             <h1>{params.cityName}</h1>
         </div>

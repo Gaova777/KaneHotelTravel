@@ -41,6 +41,7 @@
 .popularity{
     display: flex;
     align-items: center;
+    margin-bottom: 5px;
     /* justify-content: center; */
 }
 

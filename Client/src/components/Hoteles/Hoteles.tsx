@@ -16,7 +16,7 @@ export function Hoteles () {
     /////////////Paginado/////////////////////////
 
     const [currentPage, setCurrentPage] = useState(1); // Pagina actual
-    const [hotelsInPage, setHotelsInPage] = useState(10); // Hoteles por pagina
+    const [hotelsInPage, setHotelsInPage] = useState(6); // Hoteles por pagina
     const indexLastHotel = currentPage * hotelsInPage; // Ultimo hotel por página
     const indexFirstHotel = indexLastHotel - hotelsInPage; // Primer hotel de cada página
     const currentHotel = allHotels.slice(indexFirstHotel, indexLastHotel); // el slice selecciona solo los hoteles entre el primer y ultimo hotel de cada pagina
@@ -27,11 +27,40 @@ export function Hoteles () {
 
     /////////////////////////////////////////////
 
+
+    const [order, setOrder] = useState("ASC")
+
+    function orderChange(e:any){
+        e.preventDefault();
+        setOrder(e.target.value)
+        dispatch(getHotels(params.cityName, order) as any)
+        
+    }
+
     useEffect(() => {
-        dispatch(getHotels(params.cityName) as any)
+        dispatch(getHotels(params.cityName, order) as any)
     },[dispatch])
 
+
+
     return(<div className={styles.container}>
+        {/* Ordenamientos y filtrados */}
+        <div>
+            <div>
+                <span>Categoría</span>
+                <select>
+                    <option>Económico</option>
+                </select>
+            </div>
+            <div>
+                <span>Alfabéticamente</span>
+                <select onChange={(e) => orderChange(e)}>
+                    <option value="ASC" key="ASC">Ascendente</option>
+                    <option value="DESC" key="DESC">Descendente</option>
+                </select>
+            </div> 
+        </div>
+
         <h1>Hoteles</h1>
         <div className={styles.hoteles}>
             {currentHotel.length ?
