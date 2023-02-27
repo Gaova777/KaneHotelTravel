@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Josefin+Sans&family=Ubuntu&family=Ubuntu+Condensed&family=Ubuntu+Mono:ital,wght@1,400;1,700&display=swap');
+
+.containerBookingGeneral{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+.detailBookingContainer{
+    display: flex;
+    justify-content: space-around;
+    width: 1300px;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 20px 15px;
+    background-color: rgb(238, 238, 197);
+    gap: 60px;
+    box-shadow: 10px 10px 10px 0px rgba(0,0,0,0.75);
+    
+}
+.hotel{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+.image{
+    text-align: center;
+}
+.image img{
+   text-align: center;
+   width: 300px;
+   height: 300px;
+}
+.button{    
+    margin-top: 20px;
+    margin-right: 15px;
+}
+
+.titleBooking{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 22px;
+}
+.title1{    
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;     
+}
+.modal{
+    display: flex;
+    margin-top: 15px;
+    justify-content: left;
+    gap: 1rem;
+    
+}

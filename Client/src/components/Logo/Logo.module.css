@@ -1,9 +1,0 @@
-.logo{
-  font-size: 3rem;
-  font-weight: bold;
-}
-
-.logo :is(a){
-  text-decoration: none;
-  color: #435092;
-}

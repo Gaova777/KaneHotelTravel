@@ -1,0 +1,44 @@
+.filterOrderHotels {
+  width: 100%;
+}
+
+.filterOrderHotelsContainer {
+  /* max-width: 1400px; */
+  max-width: 80%;
+  padding: 20px 0;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  /* grid-template-columns: 1fr 2fr 2fr 1fr; */
+  row-gap: 20px;
+}
+
+.filterOrderHotelsLogo {
+  margin: auto;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.filterOrderHotelsTypes {
+  width: 250px;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+}
+
+.filterOrderHotelsButton {
+  margin: auto;
+}
+
+.filterOrderHotelsButton button {
+  margin: auto;
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #000;
+  border: 4px solid coral;
+  background-color: #fff;
+}
+.filterOrderHotelsButton button:hover {
+  cursor: pointer;
+}

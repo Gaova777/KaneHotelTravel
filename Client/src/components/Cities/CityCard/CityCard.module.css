@@ -1,0 +1,59 @@
+.cardCityContainer {
+  margin: auto;
+  width: 300px;
+  min-height: 350px;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #fbfbfb;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.507);
+  cursor: auto;
+}
+
+.cardCityImage {
+  margin: 10px;
+  padding: 10px;
+}
+
+.cardCityContainer img {
+  width: 100%;
+}
+
+.cardCityPopularity {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cardCityPopularity img {
+  margin-right: 8px;
+  width: 20px;
+  height: 20px;
+}
+
+.cardCityInfo {
+  width: 90%;
+}
+
+.cardCityInfo h2 {
+  margin: 0;
+  text-align: center;
+}
+
+.cardCityButton {
+  font-size: 15px;
+  text-decoration: none;
+  width: 200px;
+  height: 28px;
+  border: 3px solid #ff795b;
+  border-radius: 10px;
+  transition: all 0.2s;
+}
+
+.cardCityButton:hover {
+  background-color: #ff795b;
+  color: white;
+  cursor: pointer;
+}
